@@ -7,7 +7,10 @@
     "day1": "ts-node day01/main.ts",
     "day2": "ts-node day02/main.ts",
     "day3": "ts-node day03/main.ts",
-    "day4": "ts-node day04/main.ts"
+    "day4": "ts-node day04/main.ts",
+    "day5": "ts-node day05/main.ts",
+    "day6": "ts-node day06/main.ts",
+    "day7": "ts-node day07/main.ts"
   },
   "repository": {
     "type": "git",
